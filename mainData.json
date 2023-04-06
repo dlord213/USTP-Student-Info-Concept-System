@@ -1,0 +1,220 @@
+[
+  {
+    "studentIDNumber": 2022301716,
+    "password": "dlord213",
+    "name": "Jhon Lloyd Viernes",
+    "picturePath": "./",
+    "subjectsEnrolled": [
+      {
+        "code": "IT121",
+        "subject": "Computer Programing 2",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "T 6:00 PM - 8:00 PM",
+        "midterm": "2",
+        "final": "1.25",
+        "re-exam": "",
+        "remarks": "Passed"
+      },
+      {
+        "code": "IT122",
+        "subject": "Data Structures and Algorithms",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "M 6:00 PM - 9:00 PM"
+      },
+      {
+        "code": "IT123",
+        "subject": "Discrete Mathematics",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "WF 3:00 PM - 4:30 PM"
+      },
+      {
+        "code": "ArtApp",
+        "subject": "Art Appreciation",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TTh 3:00 PM - 4:30 PM"
+      },
+      {
+        "code": "UTS",
+        "subject": "Understanding the Self",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TF 9:00 AM - 10:30 AM"
+      },
+      {
+        "code": "STS",
+        "subject": "Science, Technology and Society",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TF 1:30 PM - 3:00 PM"
+      },
+      {
+        "code": "PATH FIT 2",
+        "subject": "Fitness Activity and Exercises",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "W 8:00 AM - 10:00 AM"
+      },
+      {
+        "code": "NSTP102a",
+        "subject": "Reserve Officer Training Corps 2",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "S 8:00 AM - 12:00 PM"
+      }
+    ],
+    "semesterInfo": {
+      "1st": [{
+        "semester": "1st",
+        "downpayment": "3_128",
+        "prelim": "3_128",
+        "midterm": "3_128",
+        "pre-final": "3_128",
+        "final": "3_128",
+        "regNo": "314997",
+        "yrLvl": "1st"
+      },
+      {
+        "semester": "2nd",
+        "downpayment": "2_606",
+        "prelim": "2_606",
+        "midterm": "2_606",
+        "pre-final": "2_606",
+        "final": "2_606",
+        "regNo": "349172",
+        "yrLvl": "1st"
+      }],
+      "2nd": [
+        
+      ]
+    }
+  },
+  {
+    "studentIDNumber": 2022301714,
+    "password": "dlord213",
+    "name": "Benjamin Requinto",
+    "picturePath": "./",
+    "subjectsEnrolled": [
+      {
+        "code": "IT121",
+        "subject": "Computer Programing 2",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "T 6:00 PM - 8:00 PM"
+      },
+      {
+        "code": "IT122",
+        "subject": "Data Structures and Algorithms",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "M 6:00 PM - 9:00 PM"
+      },
+      {
+        "code": "ArtApp",
+        "subject": "Art Appreciation",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TTh 3:00 PM - 4:30 PM"
+      },
+      {
+        "code": "UTS",
+        "subject": "Understanding the Self",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TF 9:00 AM - 10:30 AM"
+      },
+      {
+        "code": "STS",
+        "subject": "Science, Technology and Society",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "TF 1:30 PM - 3:00 PM"
+      },
+      {
+        "code": "PATH FIT 2",
+        "subject": "Fitness Activity and Exercises",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "W 8:00 AM - 10:00 AM"
+      },
+      {
+        "code": "NSTP102a",
+        "subject": "Reserve Officer Training Corps 2",
+        "credit": "3",
+        "section": "IT1R13",
+        "schedule": "S 8:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "studentIDNumber": 2022309990,
+    "password": "nazibitch",
+    "name": "Bridget Sarah Nazi",
+    "picturePath": "./",
+    "subjectsEnrolled": [
+      {
+        "code": "GnS",
+        "subject": "Gender and Society",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "MTh 9:00 AM - 10:30 AM",
+        "midterm": "2",
+        "final": "1.25",
+        "re-exam": "",
+        "remarks": "Passed"
+      },
+      {
+        "code": "ArtApp",
+        "subject": "Art Appreciation",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "MTh 7:30 AM - 9:00 AM"
+      },
+      {
+        "code": "MATH123",
+        "subject": "Differential Calculus with Analytic Geometry",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "M 3:00 PM - 5:00 PM / Th 3:00 PM - 6:00 PM"
+      },
+      {
+        "code": "ET121",
+        "subject": "Electronic Devices 1",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "M 6:00 PM - 9:00 PM / T 6:00 PM - 8:00 PM"
+      },
+      {
+        "code": "EMT121",
+        "subject": "Programmable Logic Controller",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "TF 9:00 AM - 10:30 AM"
+      },
+      {
+        "code": "TD121",
+        "subject": "CAD/CAM",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "W 5:30 PM - 8:30 PM / W 9:30 AM - 10:30 AM"
+      },
+      {
+        "code": "PATH FIT 2",
+        "subject": "Fitness Activity and Exercises",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "T 10:00 AM - 12:00 PM"
+      },
+      {
+        "code": "NSTP102b",
+        "subject": "Civic Welfare Training Service 2",
+        "credit": "3",
+        "section": "CT_MR1P3",
+        "schedule": "TF 1:30 PM - 3:00 PM"
+      }
+    ]
+  }
+]
